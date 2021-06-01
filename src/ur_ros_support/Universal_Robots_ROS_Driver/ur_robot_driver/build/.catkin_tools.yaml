@@ -1,0 +1,6 @@
+devel_space: /home/nicoleuze/Bachelorthesis/UR_ROS_Support/Universal_Robots_ROS_Driver/ur_robot_driver/devel
+install: false
+install_space: /home/nicoleuze/Bachelorthesis/UR_ROS_Support/Universal_Robots_ROS_Driver/ur_robot_driver/install
+profile: default
+source_space: /home/nicoleuze/Bachelorthesis/UR_ROS_Support/Universal_Robots_ROS_Driver/ur_robot_driver/src
+workspace: /home/nicoleuze/Bachelorthesis/UR_ROS_Support/Universal_Robots_ROS_Driver/ur_robot_driver
