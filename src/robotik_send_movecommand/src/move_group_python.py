@@ -135,6 +135,10 @@ class MoveGroupPython(object):
 
     # For testing:
     current_pose = self.move_group.get_current_pose().pose
+    print('current_pose: ')
+    print(current_pose)
+    print('pose_goal: ')
+    print(pose_goal)
     return all_close(pose_goal, current_pose, 0.01)
 
 
